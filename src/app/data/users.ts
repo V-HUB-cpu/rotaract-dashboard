@@ -180,7 +180,7 @@ export const bearers: User[] = [
     password: 'pavishraj2026',
     role: 'bearer',
     name: 'Rtr. Pavish Raj',
-    email: '-',
+    email: 'rtr.pavishrajr@gmail.com',
     phone: '+91 9345792600',
     position: 'President',
     joinDate: '2022-07-01',
