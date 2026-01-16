@@ -1,0 +1,13 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+/* Ensure dark mode is applied globally */
+html {
+  background-color: rgb(15 23 42);
+  color: white;
+}
+
+body {
+  @apply bg-slate-900 text-white;
+}
